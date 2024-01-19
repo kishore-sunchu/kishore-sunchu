@@ -43,7 +43,7 @@ I'm a passionate full stack developer currently training at NJ India Invest. My 
 - **Organization:** NJ India Invest
 - **Duration:** 26-06-2023 - 30-04-2024
 - **Key Skills Learned:**
-  - Frontend Development with HTML,CSS,JS and JS
+  - Frontend Development with HTML,CSS,JS and JSP
   - Backend Development with Advance Java and Spring Boot
   - Database Management with MySQL
 
